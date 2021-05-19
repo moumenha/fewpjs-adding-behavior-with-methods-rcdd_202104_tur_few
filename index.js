@@ -21,7 +21,7 @@ class Dog{
 class Bird{
   constructor(name, sex){
     this.name = name;
-    this.sex = sex;
+    this.sex = male, female;
   }
   speak(){
     if (this.sex == male) {
